@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">징징</string>
+
+    <string name="ad_ending_title">종료</string>
+    <string name="ad_ending_message">종료하시겠습니까?</string>
+    <string name="ad_ending_positive">종료</string>
+    <string name="ad_ending_negative">취소</string>
+    <string name="update">업데이트</string>
+    <string name="update_exist">업데이트가 존재합니다.\n스토어로 이동하시겠습니까?</string>
+    <string name="never_see_again">다시보지않기</string>
+    <string name="setting_review">이 앱을 평가해주세요</string>
+    <string name="confirm">확인</string>
+    <string name="make">만들기</string>
+    <string name="join">입장</string>
+    <string name="id">아이디</string>
+    <string name="pw">패스워드</string>
+    <string name="title_join">정보입력</string>
+    <string name="title_room_make">방 만들기</string>
+    <string name="hint_id">아이디를 입력하세요.</string>
+    <string name="hint_pw">비밀번호를 입력하세요.</string>
+    <string name="success">성공!</string>
+    <string name="hint_room_name">방제목을 입력하세요.</string>
+    <string name="hint_room_pw">방 비밀번호를 입력하세요.</string>
+    <string name="hint_search">검색어를 입력하세요.</string>
+    <string name="tab_text_1">회원가입</string>
+    <string name="tab_text_2">로그인</string>
+    <string name="chk_null">값이 비어있습니다.</string>
+    <string name="chk_special">특수문자는 안됩니다.</string>
+    <string name="chk_spacing">띄어쓰기는 안됩니다.</string>
+    <string name="chk_err">오류가 발생하였습니다.</string>
+    <string name="server_down">서버가 죽었습니다.</string>
+    <string name="is_null">일치하는 데이터가 없습니다.</string>
+
+    <string-array name="ar_search">
+        <item>방제목</item>
+        <item>닉네임</item>
+    </string-array>
+
+</resources>

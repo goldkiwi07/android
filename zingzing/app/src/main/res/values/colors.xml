@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="ripple_base">#FFFFFF</color>
+
+    <color name="cardview_dark_background">#FF424242</color>
+
+
+    <!-- Background Color -->
+    <color name="back_base">#1F3161</color>
+    <color name="back_black">#000000</color>
+    <color name="back_black2">#191A25</color>
+    <color name="back_black3">#1E1F2A</color>
+
+    <color name="back_white">#FFFFFF</color>
+    <color name="back_white2">#F5F5F5</color>
+    <color name="back_white3">#F9F2FF</color>
+
+    <color name="back_yellow1">#D8AF4E</color>
+    <color name="back_yellow2">#BE9127</color>
+    <color name="back_yellow3">#D9B04E</color>
+    <color name="back_yellow4">#FFE600</color>
+    <color name="back_yellow5">#FAE502</color>
+
+    <color name="back_red1">#E1202E</color>
+    <color name="back_red2">#B30A16</color>
+
+    <color name="back_orange1">#FF9800</color>
+
+    <!--
+    <color name="back_purple1">#C8A2B6</color>
+    <color name="back_purple2">#82697E</color>
+    <color name="back_purple3">#F2E3DC</color>
+    <color name="back_purple4">#D4ABFF</color>
+    <color name="back_purple5">#DA00FF</color>
+    -->
+
+    <!--
+        <color name="back_purple1">#BA78FF</color>
+        <color name="back_purple2">#A46BDF</color>
+        <color name="back_purple3">#935FC7</color>
+        <color name="back_purple4">#D4ABFF</color>
+        <color name="back_purple5">#DA00FF</color>
+    -->
+
+    <color name="back_basic1">#F5F5F5</color>
+    <!--<color name="back_basic1">#EDEDED</color>-->
+    <!--<color name="back_basic1">#5C5D61</color>-->
+    <!--<color name="back_basic1">#F9F2FF</color>-->
+    <!--<color name="back_basic1">#C8D5FF</color>-->
+    <!--<color name="back_basic1">#5C5C5C</color>-->
+
+    <color name="back_purple1">#7D6FAD</color>
+    <color name="back_purple2">#695B8F</color>
+    <color name="back_purple3">#554771</color>
+    <color name="back_purple4">#D4ABFF</color>
+    <color name="back_purple5">#DA00FF</color>
+    <!--<color name="back_purple6">#80695B8F</color>-->
+    <color name="back_purple6">#BB695B8F</color>
+
+    <color name="back_skygray">#DCDEE3</color>
+
+
+    <color name="back_gray">#B2B5C9</color>
+    <color name="back_gray2">#E2E2E2</color>
+    <color name="back_gray3">#898B95</color>
+    <color name="back_gray4">#A7A9AB</color>
+
+    <color name="back_blue1">#1F3161</color>
+    <color name="back_blue2">#001245</color>
+    <color name="back_blue3">#0025FF</color>
+    <color name="back_blue4">#9AB6DB</color>
+
+    <color name="back_sky1">#a3daff</color>
+    <color name="back_sky2">#1ec0ff</color>
+    <color name="back_sky3">#0080ff</color>
+    <color name="back_sky4">#03a6ff</color>
+    <color name="back_sky5">#8693CC</color>
+    <color name="back_sky6">#EDF2F6</color>
+
+    <color name="back_green1">#23B574</color>
+    <color name="back_green2">#D7E4BD</color>
+
+    <!-- Line Color -->
+    <color name="line_black">#2B2C33</color>
+    <color name="line_pager">#666873</color>
+
+    <color name="line_gray1">#EDEDED</color>
+    <color name="line_gray2">#D5D5D6</color>
+    <color name="line_gray3">#63646B</color>
+
+    <color name="line_red1">#B30A16</color>
+
+
+    <!-- Font Color -->
+    <color name="font_base1">#666873</color>
+    <color name="font_base2">#2B2C33</color>
+    <color name="font_base3">#898B95</color>
+
+    <color name="font_white">#FFFFFF</color>
+
+    <color name="font_yellow1">#C7A24B</color>
+    <color name="font_yellow2">#D9B04E</color>
+    <color name="font_yellow3">#D8AF4E</color>
+
+    <color name="font_gray1">#6A6A6E</color>
+    <color name="font_gray2">#63646B</color>
+    <color name="font_gray3">#5C5D61</color>
+    <color name="font_gray4">#88888C</color>
+    <color name="font_gray5">#757679</color>
+    <color name="font_gray6">#CBCACA</color>
+    <color name="font_gray7">#8A8A8D</color>
+    <color name="font_gray8">#6A6B72</color>
+    <color name="font_gray9">#8A92A7</color>
+    <color name="font_gray10">#646D89</color>
+
+    <color name="font_red">#D00F37</color>
+    <color name="font_red2">#B30A16</color>
+
+    <color name="font_pink1">#FFD9E0</color>
+
+    <color name="font_blue1">#001245</color>
+    <color name="font_blue2">#456ACC</color>
+</resources>

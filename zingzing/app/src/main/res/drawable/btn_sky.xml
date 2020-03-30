@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="false">
+        <shape>
+            <stroke
+                android:width="@dimen/btn_border"
+                android:color="@color/back_sky3" />
+
+            <solid android:color="@color/back_sky2" />
+        </shape>
+    </item>
+
+    <item android:state_pressed="true">
+        <shape>
+            <stroke
+                android:width="@dimen/btn_border"
+                android:color="@color/back_sky2" />
+
+            <solid android:color="@color/back_sky3" />
+        </shape>
+    </item>
+</selector>

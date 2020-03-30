@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">ZingZing</string>
+
+    <string name="ad_ending_title">CLOSE</string>
+    <string name="ad_ending_message">CLOSE?</string>
+    <string name="ad_ending_positive">CLOSE</string>
+    <string name="ad_ending_negative">CANCEL</string>
+    <string name="update">UPDATE</string>
+    <string name="update_exist">UPDATE EXIST\nMOVE TO STORE?</string>
+    <string name="never_see_again">NEVER SEE AGAIN</string>
+    <string name="setting_review">Please rate this app</string>
+    <string name="confirm">CONFIRM</string>
+    <string name="make">MAKE</string>
+    <string name="join">JOIN</string>
+    <string name="id">ID</string>
+    <string name="pw">PW</string>
+    <string name="title_join">Insert Infomation</string>
+    <string name="title_room_make">Make Room</string>
+    <string name="hint_id">Insert Your ID</string>
+    <string name="hint_pw">Insert Your PW</string>
+    <string name="success">Success!</string>
+    <string name="hint_room_name">Insert Room Name</string>
+    <string name="hint_room_pw">Insert Room PW</string>
+    <string name="hint_search">Insert Search Data</string>
+    <string name="tab_text_1">Sign Up</string>
+    <string name="tab_text_2">Login</string>
+    <string name="chk_null">Value is Null</string>
+    <string name="chk_special">Don`t Insert Special Characters</string>
+    <string name="chk_spacing">Don`t Insert Spacing</string>
+    <string name="chk_err">Error</string>
+    <string name="server_down">Server is dead</string>
+    <string name="is_null">There is no matching data</string>
+
+    <string-array name="ar_search">
+        <item>Room Name</item>
+        <item>User Name</item>
+    </string-array>
+
+</resources>

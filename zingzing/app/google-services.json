@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "836820719245",
+    "firebase_url": "https://zingzing-aea0c.firebaseio.com",
+    "project_id": "zingzing-aea0c",
+    "storage_bucket": "zingzing-aea0c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836820719245:android:ac78bf0b28d7e9c61df4c4",
+        "android_client_info": {
+          "package_name": "com.gold.kiwi.zingzing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836820719245-02qe7jpugbev3pvhnm1t1f4jhmqsn6dg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gold.kiwi.zingzing",
+            "certificate_hash": "bdcbda1143e46cee4f198ba1e2fbd4663962d91f"
+          }
+        },
+        {
+          "client_id": "836820719245-r61q6flactvivqjc7q1ln96vlqtld1qv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNcN1A3bdOUTG5OTgzXpVzUX8-QU8yQbY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836820719245-r61q6flactvivqjc7q1ln96vlqtld1qv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

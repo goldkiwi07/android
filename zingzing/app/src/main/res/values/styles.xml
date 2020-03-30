@@ -1,0 +1,259 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/back_base</item>
+        <item name="colorPrimaryDark">@color/back_base</item>
+    </style>
+
+    <style name="SplashTheme" parent="android:style/Theme.Light.NoTitleBar.Fullscreen">
+        <item name="android:windowBackground">@drawable/splash</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:windowTranslucentNavigation">true</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.NoActionBarClearStatusBarFullScreen">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+
+
+    <!-- Component -->
+    <style name="txt_base">
+        <item name="android:textColor">@color/font_base1</item>
+        <item name="android:letterSpacing">-0.05</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:gravity">center_vertical</item>
+    </style>
+
+    <style name="txt_1" parent="txt_base">
+        <item name="android:text">txt_1 10sp</item>
+        <item name="android:textSize">10sp</item>
+    </style>
+
+    <style name="txt_2" parent="txt_base">
+        <item name="android:text">txt_2 11sp</item>
+        <item name="android:textSize">11sp</item>
+    </style>
+
+    <style name="txt_3" parent="txt_base">
+        <item name="android:text">txt_3 12sp</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+
+    <style name="txt_4" parent="txt_base">
+        <item name="android:text">txt_4 13sp</item>
+        <item name="android:textSize">13sp</item>
+    </style>
+
+    <style name="txt_5" parent="txt_base">
+        <item name="android:text">txt_5 14sp</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="txt_6" parent="txt_base">
+        <item name="android:text">txt_6 15sp</item>
+        <item name="android:textSize">15sp</item>
+    </style>
+
+    <style name="txt_7" parent="txt_base">
+        <item name="android:text">txt_7 16sp</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <style name="txt_8" parent="txt_base">
+        <item name="android:text">txt_8 17sp</item>
+        <item name="android:textSize">17sp</item>
+    </style>
+
+    <style name="txt_9" parent="txt_base">
+        <item name="android:text">txt_9 18sp</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <style name="txt_10" parent="txt_base">
+        <item name="android:text">txt_10 19sp</item>
+        <item name="android:textSize">19sp</item>
+    </style>
+
+    <style name="txt_11" parent="txt_base">
+        <item name="android:text">txt_11 20sp</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name="txt_12" parent="txt_base">
+        <item name="android:text">txt_12 21sp</item>
+        <item name="android:textSize">21sp</item>
+    </style>
+
+    <style name="txt_13" parent="txt_base">
+        <item name="android:text">txt_13 22sp</item>
+        <item name="android:textSize">22sp</item>
+    </style>
+
+    <style name="txt_14" parent="txt_base">
+        <item name="android:text">txt_14 23sp</item>
+        <item name="android:textSize">23sp</item>
+    </style>
+
+    <style name="txt_18" parent="txt_base">
+        <item name="android:text">txt_18 27sp</item>
+        <item name="android:textSize">27sp</item>
+    </style>
+
+    <style name="linear_line">
+        <item name="android:layout_height">1dp</item>
+        <item name="android:layout_marginTop">5dp</item>
+        <item name="android:layout_marginBottom">5dp</item>
+        <item name="android:background">@color/line_gray3</item>
+    </style>
+
+    <style name="text_color">
+        <item name="android:textColor">@color/font_base1</item>
+        <item name="android:letterSpacing">-0.05</item>
+    </style>
+
+    <style name="tv_s" parent="text_color" >
+        <item name="android:text">small_text</item>
+        <item name="android:textSize">10sp</item>
+    </style>
+
+    <style name="tv_m" parent="text_color">
+        <item name="android:text">medium_text</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <style name="tv_l" parent="text_color">
+        <item name="android:text">small_text</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name="tv_sw" parent="tv_s">
+        <item name="android:textColor">@color/font_white</item>
+    </style>
+
+    <style name="tv_mw" parent="tv_m">
+        <item name="android:textColor">@color/font_white</item>
+    </style>
+
+    <style name="tv_lw" parent="tv_l">
+        <item name="android:textColor">@color/font_white</item>
+    </style>
+
+    <style name="tab_auth" parent="txt_5">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="btn_bottom" parent="txt_6">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">50dp</item>
+        <item name="android:layout_margin">10dp</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:textColor">@color/font_white</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="block_input">
+        <item name="android:layout_marginTop">15dp</item>
+    </style>
+
+    <style name="register_input_title" parent="txt_4">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/font_white</item>
+    </style>
+
+    <style name="register_input_edt" parent="txt_3">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">40dp</item>
+        <item name="android:layout_marginTop">5dp</item>
+        <item name="android:paddingStart">10dp</item>
+        <item name="android:background">@color/font_blue1</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:textColor">@color/font_white</item>
+        <item name="android:textColorHint">@color/font_gray9</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:text"></item>
+    </style>
+
+    <style name="cv_basic">
+        <item name="android:layout_marginBottom">@dimen/card_gap</item>
+        <item name="android:layout_marginStart">@dimen/card_gap</item>
+        <item name="android:layout_marginEnd">@dimen/card_gap</item>
+    </style>
+
+    <style name="edt_contact_add_input" parent="txt_4">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_marginStart">10dp</item>
+        <item name="android:paddingStart">10dp</item>
+        <item name="android:background">@color/back_white</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:textColor">@color/font_base1</item>
+        <item name="android:textColorHint">@color/font_gray6</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:text"></item>
+    </style>
+
+    <style name="btn_popup_bottom" parent="btn_bottom">
+        <item name="android:layout_height">40dp</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="block_setting">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">80dp</item>
+        <item name="android:padding">5dp</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:background">@drawable/border_bottom_white</item>
+    </style>
+
+    <style name="block_no_data">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="txt_contact_detail" parent="txt_6">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_marginStart">10dp</item>
+        <item name="android:paddingStart">10dp</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:textColor">@color/font_base1</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:text"></item>
+    </style>
+
+    <style name="txt_settings_detail" parent="txt_4">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_marginStart">10dp</item>
+        <item name="android:paddingStart">10dp</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:textColor">@color/font_gray6</item>
+        <item name="android:singleLine">false</item>
+        <item name="android:text"> </item>
+    </style>
+
+    <style name="basic_checkbox">
+        <item name="android:layout_width">30dp</item>
+        <item name="android:layout_height">30dp</item>
+        <item name="android:background">@drawable/select_check</item>
+        <item name="android:button">@null</item>
+    </style>
+
+    <style name="edt_base" parent="txt_8">
+        <item name="android:text"></item>
+    </style>
+
+</resources>
